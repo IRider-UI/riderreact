@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/riderreact.svg)](https://badge.fury.io/js/riderreact)
 ![NPM Downloads](https://img.shields.io/npm/dm/riderreact?color=purple)
 
-[![RiderReact Hero](![alt text](image.png))]()
+[![RiderReact Hero](https://i.pinimg.com/736x/ab/b5/d7/abb5d7ba3368324648e9c374ef37cfed.jpg)]()
 
 # RiderReact
 
